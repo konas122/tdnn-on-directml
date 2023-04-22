@@ -28,7 +28,7 @@ torch-directml==0.1.13.1.dev230301
 
 ## Usage
 
-先下载本人训练好的模型[releases](https://github.com/konas122/tdnn-on-directml/releases)，并将该模型放在 `run_this.py` 的同一目录下。
+先下载本人训练好的模型[param.model](https://github.com/konas122/tdnn-on-directml/releases/download/v1.0/param.model)，并将该模型放在 `run_this.py` 的同一目录下。
 
 若要将模型直接运用，则运行 `run_this.py`。
 
